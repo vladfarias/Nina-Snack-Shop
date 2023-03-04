@@ -1,0 +1,11 @@
+{
+  "name": "nina-snack",
+  "version": "1.0.0",
+  "description": "Welcome to our online snack store!A project to develop web development skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vladfarias",
+  "license": "ISC"
+}

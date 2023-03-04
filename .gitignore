@@ -1,0 +1,26 @@
+# node
+node_modules
+
+launch.json
+
+# application build folder
+build
+dist
+lib
+
+# coverage folder
+coverage
+
+# misc
+*.log
+*.zip
+tf-work
+yarn.lock
+.env
+
+.DS_Store
+report.xml
+junit.xml
+
+.env
+*.bat
